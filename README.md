@@ -12,7 +12,7 @@ surface), Einstein **dynamics** fails across four dissipative substrate families
 recovered only on the holographic / quantum-error-correcting class (a $[[5,1,3]]$
 perfect-tensor network: Ryu–Takayanagi density $\eta_c=1$, a first-law/FLM analogue). The
 broader framework is the Computational Wave Field Theory book (Zenodo DOI
-[10.5281/zenodo.19862756](https://doi.org/10.5281/zenodo.19862756)).
+[10.5281/zenodo.20486506](https://doi.org/10.5281/zenodo.20486506)).
 
 ## Environment
 
@@ -81,12 +81,11 @@ clock-freeze/transport-horizon separation is **2–3 sites across runs** (always
 the well half-width of 18). This does not affect any conclusion; pin `OMP_NUM_THREADS=1`
 for bit-identical reservoir output if desired. `results.json` holds the reference values.
 
-## Licensing
+## License
 
-A license has not yet been added. Add one before public release (e.g. MIT for the code,
-CC-BY for the figures).
+Released under the MIT License (see `LICENSE`).
 
 ## Citation
 
 Please cite the paper (above) and the Computational Wave Field Theory book
-(Zenodo DOI 10.5281/zenodo.19862756).
+(Zenodo DOI 10.5281/zenodo.20486506).
