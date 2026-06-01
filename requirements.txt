@@ -1,0 +1,7 @@
+# CWF experiments — Python environment (CPU-only; no GPU used).
+# Captured 2026-06-01 on Python 3.10.12 (Linux x86_64). See ../REPRODUCE.md.
+numpy==2.2.6
+scipy==1.15.3
+matplotlib==3.10.3
+networkx==3.4.2     # graph / min-cut experiments (A3d, T25, t23/t24)
+stim==1.16.0        # Clifford / stabilizer experiments (Page curves, HaPPY, C3 Bell)

@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Regenerated figures land in the repo root; the reference copies live in figures/
+/fig_*.png
+
+# misc
+*.aux
+*.log
+.DS_Store
