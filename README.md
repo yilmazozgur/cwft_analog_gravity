@@ -4,11 +4,11 @@ Code and reference outputs to reproduce every figure and the experimental-record
 
 > **Analog Gravity on Computational Substrates: Robust Kinematic Horizons, Einstein
 > Dynamics Confined to the Holographic Error-Correcting Class, and a Gravitating
-> Critical Line**, O. Yilmaz (in submission, *Entropy*).
+> Critical Line**, O. Yilmaz (in submission, *Journal of Physics Communications*; an earlier version is under review at *Entropy*).
 
 The paper's split: effective-metric **kinematics** hold generically on computational
 substrates (a transport horizon at the gain-field zero set coincides with the clock-freeze
-surface), Einstein **dynamics** fails across four dissipative substrate families, and is
+surface), Einstein **dynamics** fails in four tests across three dissipative substrate families, and is
 recovered only on the holographic / quantum-error-correcting class (a $[[5,1,3]]$
 perfect-tensor network: Ryu–Takayanagi density $\eta_c=1$, a first-law/FLM analogue). The
 broader framework is the Computational Wave Field Theory book (Zenodo DOI
